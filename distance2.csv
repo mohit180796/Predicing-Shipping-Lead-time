@@ -1,0 +1,723 @@
+﻿country,source_country,distance
+Vietnam,India,3330
+Kenya,India,5013
+Zambia,India,6723
+Haiti,India,14606
+South Sudan,India,5343
+Mozambique,India,6434
+Burundi,India,5969
+South Africa,India,8250
+Nigeria,India,7607
+Rwanda,India,5898
+Côte d'Ivoire,India,9139
+Malawi,India,6159
+"Congo, DRC",India,6806
+Sudan,India,5240
+Swaziland,India,7320
+Uganda,India,5491
+Dominican Republic,India,14489
+Zimbabwe,India,6983
+Cameroon,India,7286
+Tanzania,India,5667
+Benin,India,8259
+Ethiopia,India,4310
+Pakistan,India,1452
+Guyana,India,14609
+Mali,India,8618
+Namibia,India,8144
+Ghana,India,8655
+Guatemala,India,15792
+Botswana,India,7575
+Togo,India,8439
+Angola,India,7550
+Afghanistan,India,1850
+Liberia,India,9584
+Burkina Faso,India,8555
+Lesotho,India,7774
+Sierra Leone,India,9748
+Senegal,India,9784
+Guinea,India,9477
+Vietnam,Sweden,8630
+Kenya,Sweden,10374
+Zambia,Sweden,13107
+Haiti,Sweden,8232
+South Sudan,Sweden,6013
+Mozambique,Sweden,8888
+Burundi,Sweden,11305
+South Africa,Sweden,14379
+Nigeria,Sweden,5595
+Rwanda,Sweden,11307
+Côte d'Ivoire,Sweden,8950
+Malawi,Sweden,12403
+"Congo, DRC",Sweden,7136
+Sudan,Sweden,5337
+Swaziland,Sweden,14646
+Uganda,Sweden,10006
+Dominican Republic,Sweden,8139
+Zimbabwe,Sweden,13877
+Cameroon,Sweden,5887
+Tanzania,Sweden,11339
+Benin,Sweden,5809
+Ethiopia,Sweden,9270
+Pakistan,Sweden,4969
+Guyana,Sweden,8847
+Mali,Sweden,5064
+Namibia,Sweden,13215
+Ghana,Sweden,9385
+Guatemala,Sweden,9486
+Botswana,Sweden,9179
+Togo,Sweden,5914
+Angola,Sweden,7927
+Afghanistan,Sweden,4555
+Liberia,Sweden,8809
+Burkina Faso,Sweden,8842
+Lesotho,Sweden,14825
+Sierra Leone,Sweden,8351
+Senegal,Sweden,5735
+Guinea,Sweden,6050
+Vietnam,Ireland,10386
+Kenya,Ireland,10784
+Zambia,Ireland,12462
+Haiti,Ireland,6642
+South Sudan,Ireland,6227
+Mozambique,Ireland,8991
+Burundi,Ireland,10661
+South Africa,Ireland,9780
+Nigeria,Ireland,7374
+Rwanda,Ireland,10663
+Côte d'Ivoire,Ireland,8166
+Malawi,Ireland,12262
+"Congo, DRC",Ireland,6924
+Sudan,Ireland,5584
+Swaziland,Ireland,9650
+Uganda,Ireland,10716
+Dominican Republic,Ireland,6523
+Zimbabwe,Ireland,13248
+Cameroon,Ireland,5399
+Tanzania,Ireland,11614
+Benin,Ireland,4953
+Ethiopia,Ireland,9684
+Pakistan,Ireland,6514
+Guyana,Ireland,7086
+Mali,Ireland,3966
+Namibia,Ireland,12585
+Ghana,Ireland,8600
+Guatemala,Ireland,8111
+Botswana,Ireland,8948
+Togo,Ireland,5007
+Angola,Ireland,7551
+Afghanistan,Ireland,6123
+Liberia,Ireland,8021
+Burkina Faso,Ireland,8046
+Lesotho,Ireland,14249
+Sierra Leone,Ireland,7564
+Senegal,Ireland,4335
+Guinea,Ireland,7068
+Vietnam,Germany,9323
+Kenya,Germany,9275
+Zambia,Germany,11775
+Haiti,Germany,7872
+South Sudan,Germany,5283
+Mozambique,Germany,8136
+Burundi,Germany,9992
+South Africa,Germany,13048
+Nigeria,Germany,6705
+Rwanda,Germany,9994
+Côte d'Ivoire,Germany,7699
+Malawi,Germany,11308
+"Congo, DRC",Germany,6228
+Sudan,Germany,4614
+Swaziland,Germany,13333
+Uganda,Germany,10047
+Dominican Republic,Germany,7745
+Zimbabwe,Germany,12564
+Cameroon,Germany,4870
+Tanzania,Germany,10244
+Benin,Germany,4711
+Ethiopia,Germany,8174
+Pakistan,Germany,5297
+Guyana,Germany,8154
+Mali,Germany,3946
+Namibia,Germany,11902
+Ghana,Germany,8134
+Guatemala,Germany,9363
+Botswana,Germany,8285
+Togo,Germany,4810
+Angola,Germany,6968
+Afghanistan,Germany,4918
+Liberia,Germany,7558
+Burkina Faso,Germany,7007
+Lesotho,Germany,13512
+Sierra Leone,Germany,7100
+Senegal,Germany,4643
+Guinea,Germany,4935
+Vietnam,United States,13789
+Kenya,United States,13713
+Zambia,United States,13836
+Haiti,United States,3039
+South Sudan,United States,12653
+Mozambique,United States,14860
+Burundi,United States,13331
+South Africa,United States,14390
+Nigeria,United States,10642
+Rwanda,United States,13221
+Côte d'Ivoire,United States,9512
+Malawi,United States,14402
+"Congo, DRC",United States,12688
+Sudan,United States,12089
+Swaziland,United States,14944
+Uganda,United States,13164
+Dominican Republic,United States,3214
+Zimbabwe,United States,14321
+Cameroon,United States,11076
+Tanzania,United States,13963
+Benin,United States,10080
+Ethiopia,United States,13135
+Pakistan,United States,12346
+Guyana,United States,5173
+Mali,United States,8983
+Namibia,United States,13606
+Ghana,United States,9882
+Guatemala,United States,3355
+Botswana,United States,14118
+Togo,United States,8564
+Angola,United States,12833
+Afghanistan,United States,11925
+Liberia,United States,9242
+Burkina Faso,United States,9546
+Lesotho,United States,14808
+Sierra Leone,United States,8900
+Senegal,United States,8272
+Guinea,United States,8986
+Vietnam,France,10067
+Kenya,France,9706
+Zambia,France,11017
+Haiti,France,7314
+South Sudan,France,5182
+Mozambique,France,7950
+Burundi,France,9216
+South Africa,France,12289
+Nigeria,France,5929
+Rwanda,France,9217
+Côte d'Ivoire,France,6715
+Malawi,France,10816
+"Congo, DRC",France,5908
+Sudan,France,4541
+Swaziland,France,12571
+Uganda,France,9270
+Dominican Republic,France,7169
+Zimbabwe,France,11802
+Cameroon,France,4426
+Tanzania,France,10168
+Benin,France,4103
+Ethiopia,France,8606
+Pakistan,France,5927
+Guyana,France,7424
+Mali,France,3236
+Namibia,France,11140
+Ghana,France,7150
+Guatemala,France,8926
+Botswana,France,7947
+Togo,France,4181
+Angola,France,6571
+Afghanistan,France,5569
+Liberia,France,6571
+Burkina Faso,France,6596
+Lesotho,France,12803
+Sierra Leone,France,6114
+Senegal,France,3853
+Guinea,France,5618
+Vietnam,United Kingdom,10027
+Kenya,United Kingdom,10594
+Zambia,United Kingdom,12272
+Haiti,United Kingdom,6948
+South Sudan,United Kingdom,6201
+Mozambique,United Kingdom,9009
+Burundi,United Kingdom,10473
+South Africa,United Kingdom,13529
+Nigeria,United Kingdom,7187
+Rwanda,United Kingdom,10476
+Côte d'Ivoire,United Kingdom,7977
+Malawi,United Kingdom,12060
+"Congo, DRC",United Kingdom,6995
+Sudan,United Kingdom,5544
+Swaziland,United Kingdom,13815
+Uganda,United Kingdom,10529
+Dominican Republic,United Kingdom,6836
+Zimbabwe,United Kingdom,13046
+Cameroon,United Kingdom,5515
+Tanzania,United Kingdom,11846
+Benin,United Kingdom,5144
+Ethiopia,United Kingdom,9490
+Pakistan,United Kingdom,6207
+Guyana,United Kingdom,7448
+Mali,United Kingdom,4202
+Namibia,United Kingdom,12384
+Ghana,United Kingdom,8411
+Guatemala,United Kingdom,8363
+Botswana,United Kingdom,9037
+Togo,United Kingdom,5210
+Angola,United Kingdom,7661
+Afghanistan,United Kingdom,5810
+Liberia,United Kingdom,7835
+Burkina Faso,United Kingdom,7869
+Lesotho,United Kingdom,13994
+Sierra Leone,United Kingdom,7378
+Senegal,United Kingdom,4641
+Guinea,United Kingdom,6874
+Vietnam,Italy,9426
+Kenya,Italy,9084
+Zambia,Italy,10747
+Haiti,Italy,8193
+South Sudan,Italy,4305
+Mozambique,Italy,7129
+Burundi,Italy,8963
+South Africa,Italy,12019
+Nigeria,Italy,5677
+Rwanda,Italy,8966
+Côte d'Ivoire,Italy,7522
+Malawi,Italy,10550
+"Congo, DRC",Italy,5186
+Sudan,Italy,3647
+Swaziland,Italy,12305
+Uganda,Italy,9019
+Dominican Republic,Italy,8037
+Zimbabwe,Italy,11536
+Cameroon,Italy,3834
+Tanzania,Italy,10336
+Benin,Italy,3755
+Ethiopia,Italy,7984
+Pakistan,Italy,5157
+Guyana,Italy,8115
+Mali,Italy,3125
+Namibia,Italy,10874
+Ghana,Italy,6446
+Guatemala,Italy,9856
+Botswana,Italy,7242
+Togo,Italy,3870
+Angola,Italy,5923
+Afghanistan,Italy,4831
+Liberia,Italy,7381
+Burkina Faso,Italy,5978
+Lesotho,Italy,12484
+Sierra Leone,Italy,6923
+Senegal,Italy,3997
+Guinea,Italy,4160
+Vietnam,South Korea,3109
+Kenya,South Korea,9990
+Zambia,South Korea,11736
+Haiti,South Korea,13549
+South Sudan,South Korea,10130
+Mozambique,South Korea,11398
+Burundi,South Korea,10927
+South Africa,South Korea,13165
+Nigeria,South Korea,11917
+Rwanda,South Korea,10838
+Côte d'Ivoire,South Korea,13145
+Malawi,South Korea,11167
+"Congo, DRC",South Korea,11703
+Sudan,South Korea,9830
+Swaziland,South Korea,12220
+Uganda,South Korea,10404
+Dominican Republic,South Korea,13644
+Zimbabwe,South Korea,11980
+Cameroon,South Korea,11738
+Tanzania,South Korea,10674
+Benin,South Korea,12406
+Ethiopia,South Korea,9164
+Pakistan,South Korea,5391
+Guyana,South Korea,15419
+Mali,South Korea,12192
+Namibia,South Korea,13152
+Ghana,South Korea,12771
+Guatemala,South Korea,13007
+Botswana,South Korea,12569
+Togo,South Korea,12576
+Angola,South Korea,12513
+Afghanistan,South Korea,5388
+Liberia,South Korea,13519
+Burkina Faso,South Korea,12465
+Lesotho,South Korea,12666
+Sierra Leone,South Korea,13508
+Senegal,South Korea,13138
+Guinea,South Korea,13237
+Vietnam,China,2457
+Kenya,China,7889
+Zambia,China,9662
+Haiti,China,13898
+South Sudan,China,8015
+Mozambique,China,9416
+Burundi,China,8818
+South Africa,China,11230
+Nigeria,China,9903
+Rwanda,China,8725
+Côte d'Ivoire,China,11248
+Malawi,China,9127
+"Congo, DRC",China,9586
+Sudan,China,7735
+Swaziland,China,10296
+Uganda,China,8289
+Dominican Republic,China,13906
+Zimbabwe,China,9957
+Cameroon,China,9687
+Tanzania,China,8591
+Benin,China,10447
+Ethiopia,China,7047
+Pakistan,China,3283
+Guyana,China,15148
+Mali,China,10411
+Namibia,China,11106
+Ghana,China,10829
+Guatemala,China,14066
+Botswana,China,10550
+Togo,China,10623
+Angola,China,10401
+Afghanistan,China,3313
+Liberia,China,11657
+Burkina Faso,China,10581
+Lesotho,China,10758
+Sierra Leone,China,11708
+Senegal,China,11476
+Guinea,China,11427
+Vietnam,Netherlands,9632
+Kenya,Netherlands,9664
+Zambia,Netherlands,11738
+Haiti,Netherlands,7509
+South Sudan,Netherlands,5561
+Mozambique,Netherlands,8394
+Burundi,Netherlands,9954
+South Africa,Netherlands,13010
+Nigeria,Netherlands,6668
+Rwanda,Netherlands,9957
+Côte d'Ivoire,Netherlands,7458
+Malawi,Netherlands,11541
+"Congo, DRC",Netherlands,6433
+Sudan,Netherlands,4898
+Swaziland,Netherlands,13296
+Uganda,Netherlands,10010
+Dominican Republic,Netherlands,7384
+Zimbabwe,Netherlands,12527
+Cameroon,Netherlands,5016
+Tanzania,Netherlands,11327
+Benin,Netherlands,4767
+Ethiopia,Netherlands,8564
+Pakistan,Netherlands,5655
+Guyana,Netherlands,7841
+Mali,Netherlands,3926
+Namibia,Netherlands,11865
+Ghana,Netherlands,7892
+Guatemala,Netherlands,8992
+Botswana,Netherlands,8486
+Togo,Netherlands,4852
+Angola,Netherlands,7141
+Afghanistan,Netherlands,5270
+Liberia,Netherlands,7316
+Burkina Faso,Netherlands,7349
+Lesotho,Netherlands,13475
+Sierra Leone,Netherlands,6858
+Senegal,Netherlands,4534
+Guinea,Netherlands,4880
+Vietnam,Spain,10762
+Kenya,Spain,9069
+Zambia,Spain,10012
+Haiti,Spain,6855
+South Sudan,Spain,5100
+Mozambique,Spain,7723
+Burundi,Spain,8211
+South Africa,Spain,11284
+Nigeria,Spain,4924
+Rwanda,Spain,8213
+Côte d'Ivoire,Spain,5724
+Malawi,Spain,9812
+"Congo, DRC",Spain,5586
+Sudan,Spain,4508
+Swaziland,Spain,11566
+Uganda,Spain,8265
+Dominican Republic,Spain,6691
+Zimbabwe,Spain,10797
+Cameroon,Spain,4010
+Tanzania,Spain,9164
+Benin,Spain,3514
+Ethiopia,Spain,8530
+Pakistan,Spain,6527
+Guyana,Spain,6757
+Mali,Spain,2544
+Namibia,Spain,10135
+Ghana,Spain,6158
+Guatemala,Spain,8579
+Botswana,Spain,7572
+Togo,Spain,3567
+Angola,Spain,6157
+Afghanistan,Spain,6193
+Liberia,Spain,5579
+Burkina Faso,Spain,5605
+Lesotho,Spain,11799
+Sierra Leone,Spain,5122
+Senegal,Spain,3067
+Guinea,Spain,3442
+Vietnam,Canada,11565
+Kenya,Canada,12992
+Zambia,Canada,13840
+Haiti,Canada,5006
+South Sudan,Canada,12005
+Mozambique,Canada,14772
+Burundi,Canada,12979
+South Africa,Canada,15174
+Nigeria,Canada,10650
+Rwanda,Canada,12833
+Côte d'Ivoire,Canada,9967
+Malawi,Canada,14177
+"Congo, DRC",Canada,12632
+Sudan,Canada,11346
+Swaziland,Canada,15308
+Uganda,Canada,12609
+Dominican Republic,Canada,5129
+Zimbabwe,Canada,14476
+Cameroon,Canada,11017
+Tanzania,Canada,13513
+Benin,Canada,10267
+Ethiopia,Canada,12133
+Pakistan,Canada,10381
+Guyana,Canada,7057
+Mali,Canada,9126
+Namibia,Canada,14235
+Ghana,Canada,10199
+Guatemala,Canada,4687
+Botswana,Canada,14539
+Togo,Canada,10245
+Angola,Canada,13108
+Afghanistan,Canada,9978
+Liberia,Canada,9834
+Burkina Faso,Canada,9766
+Lesotho,Canada,15404
+Sierra Leone,Canada,9502
+Senegal,Canada,8784
+Guinea,Canada,9492
+Vietnam,Cyprus,7744
+Kenya,Cyprus,3934
+Zambia,Cyprus,5395
+Haiti,Cyprus,10144
+South Sudan,Cyprus,3147
+Mozambique,Cyprus,5982
+Burundi,Cyprus,4294
+South Africa,Cyprus,7381
+Nigeria,Cyprus,3833
+Rwanda,Cyprus,4136
+Côte d'Ivoire,Cyprus,5012
+Malawi,Cyprus,5377
+"Congo, DRC",Cyprus,4520
+Sudan,Cyprus,2495
+Swaziland,Cyprus,6854
+Uganda,Cyprus,3753
+Dominican Republic,Cyprus,9984
+Zimbabwe,Cyprus,6033
+Cameroon,Cyprus,3760
+Tanzania,Cyprus,4614
+Benin,Cyprus,4263
+Ethiopia,Cyprus,2975
+Pakistan,Cyprus,3379
+Guyana,Cyprus,9905
+Mali,Cyprus,4172
+Namibia,Cyprus,6644
+Ghana,Cyprus,4626
+Guatemala,Cyprus,11806
+Botswana,Cyprus,6451
+Togo,Cyprus,4431
+Angola,Cyprus,5402
+Afghanistan,Cyprus,3125
+Liberia,Cyprus,5410
+Burkina Faso,Cyprus,4338
+Lesotho,Cyprus,7214
+Sierra Leone,Cyprus,5457
+Senegal,Cyprus,5283
+Guinea,Cyprus,5176
+Vietnam,Switzerland,9611
+Kenya,Switzerland,9217
+Zambia,Switzerland,11301
+Haiti,Switzerland,7767
+South Sudan,Switzerland,4953
+Mozambique,Switzerland,7774
+Burundi,Switzerland,9500
+South Africa,Switzerland,12573
+Nigeria,Switzerland,6212
+Rwanda,Switzerland,9501
+Côte d'Ivoire,Switzerland,7205
+Malawi,Switzerland,11100
+"Congo, DRC",Switzerland,5805
+Sudan,Switzerland,4295
+Swaziland,Switzerland,12855
+Uganda,Switzerland,9554
+Dominican Republic,Switzerland,7625
+Zimbabwe,Switzerland,12086
+Cameroon,Switzerland,4401
+Tanzania,Switzerland,10452
+Benin,Switzerland,4206
+Ethiopia,Switzerland,8118
+Pakistan,Switzerland,5463
+Guyana,Switzerland,7884
+Mali,Switzerland,3438
+Namibia,Switzerland,11424
+Ghana,Switzerland,7640
+Guatemala,Switzerland,9354
+Botswana,Switzerland,7860
+Togo,Switzerland,4303
+Angola,Switzerland,6519
+Afghanistan,Switzerland,5105
+Liberia,Switzerland,7061
+Burkina Faso,Switzerland,5603
+Lesotho,Switzerland,13087
+Sierra Leone,Switzerland,6604
+Senegal,Switzerland,4162
+Guinea,Switzerland,4433
+Vietnam,Thailand,1113
+Kenya,Thailand,7134
+Zambia,Thailand,8657
+Haiti,Thailand,16062
+South Sudan,Thailand,7627
+Mozambique,Thailand,8122
+Burundi,Thailand,8092
+South Africa,Thailand,9795
+Nigeria,Thailand,9971
+Rwanda,Thailand,8049
+Côte d'Ivoire,Thailand,11515
+Malawi,Thailand,8009
+"Congo, DRC",Thailand,8978
+Sudan,Thailand,7590
+Swaziland,Thailand,8856
+Uganda,Thailand,7685
+Dominican Republic,Thailand,16037
+Zimbabwe,Thailand,8756
+Cameroon,Thailand,9633
+Tanzania,Thailand,7678
+Benin,Thailand,10632
+Ethiopia,Thailand,6586
+Pakistan,Thailand,3596
+Guyana,Thailand,16811
+Mali,Thailand,10990
+Namibia,Thailand,9945
+Ghana,Thailand,11028
+Guatemala,Thailand,16276
+Botswana,Thailand,9320
+Togo,Thailand,10811
+Angola,Thailand,9619
+Afghanistan,Thailand,3882
+Liberia,Thailand,11961
+Burkina Faso,Thailand,10936
+Lesotho,Thailand,9282
+Sierra Leone,Thailand,12129
+Senegal,Thailand,12154
+Guinea,Thailand,11858
+Vietnam,South Africa,10356
+Kenya,South Africa,4857
+Zambia,South Africa,2705
+Haiti,South Africa,11541
+South Sudan,South Africa,4255
+Mozambique,South Africa,1832
+Burundi,South Africa,4179
+South Africa,South Africa,0
+Nigeria,South Africa,6528
+Rwanda,South Africa,4437
+Côte d'Ivoire,South Africa,8163
+Malawi,South Africa,2789
+"Congo, DRC",South Africa,2950
+Sudan,South Africa,4888
+Swaziland,South Africa,1190
+Uganda,South Africa,4819
+Dominican Republic,South Africa,11332
+Zimbabwe,South Africa,1827
+Cameroon,South Africa,4363
+Tanzania,South Africa,4024
+Benin,South Africa,4947
+Ethiopia,South Africa,6261
+Pakistan,South Africa,8359
+Guyana,South Africa,9502
+Mali,South Africa,6074
+Namibia,South Africa,1152
+Ghana,South Africa,7686
+Guatemala,South Africa,13076
+Botswana,South Africa,931
+Togo,South Africa,4951
+Angola,South Africa,2213
+Afghanistan,South Africa,8567
+Liberia,South Africa,8706
+Burkina Faso,South Africa,7820
+Lesotho,South Africa,706
+Sierra Leone,South Africa,9120
+Senegal,South Africa,6406
+Guinea,South Africa,5691
+Vietnam,Poland,8717
+Kenya,Poland,9104
+Zambia,Poland,12470
+Haiti,Poland,8449
+South Sudan,Poland,5128
+Mozambique,Poland,8003
+Burundi,Poland,10669
+South Africa,Poland,13742
+Nigeria,Poland,7382
+Rwanda,Poland,10670
+Côte d'Ivoire,Poland,8375
+Malawi,Poland,11126
+"Congo, DRC",Poland,6223
+Sudan,Poland,4452
+Swaziland,Poland,14024
+Uganda,Poland,8744
+Dominican Republic,Poland,8327
+Zimbabwe,Poland,13255
+Cameroon,Poland,4989
+Tanzania,Poland,10070
+Benin,Poland,4976
+Ethiopia,Poland,8005
+Pakistan,Poland,4710
+Guyana,Poland,8760
+Mali,Poland,4322
+Namibia,Poland,12593
+Ghana,Poland,8809
+Guatemala,Poland,9892
+Botswana,Poland,8268
+Togo,Poland,5092
+Angola,Poland,7016
+Afghanistan,Poland,4324
+Liberia,Poland,8230
+Burkina Faso,Poland,6772
+Lesotho,Poland,14257
+Sierra Leone,Poland,7773
+Senegal,Poland,5114
+Guinea,Poland,5343
+Vietnam,Greece,8721
+Kenya,Greece,7868
+Zambia,Greece,10030
+Haiti,Greece,9028
+South Sudan,Greece,3702
+Mozambique,Greece,6573
+Burundi,Greece,8245
+South Africa,Greece,12386
+Nigeria,Greece,6026
+Rwanda,Greece,8077
+Côte d'Ivoire,Greece,9008
+Malawi,Greece,9890
+"Congo, DRC",Greece,4791
+Sudan,Greece,3028
+Swaziland,Greece,12668
+Uganda,Greece,7507
+Dominican Republic,Greece,8869
+Zimbabwe,Greece,10677
+Cameroon,Greece,3648
+Tanzania,Greece,8833
+Benin,Greece,3834
+Ethiopia,Greece,6769
+Pakistan,Greece,4395
+Guyana,Greece,8864
+Mali,Greece,3453
+Namibia,Greece,11237
+Ghana,Greece,6795
+Guatemala,Greece,10697
+Botswana,Greece,6830
+Togo,Greece,3978
+Angola,Greece,5602
+Afghanistan,Greece,4095
+Liberia,Greece,8863
+Burkina Faso,Greece,6327
+Lesotho,Greece,12900
+Sierra Leone,Greece,8406
+Senegal,Greece,4468
+Guinea,Greece,4498
