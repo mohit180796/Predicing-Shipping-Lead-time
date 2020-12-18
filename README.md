@@ -1,2 +1,2 @@
 # Predicing-Shipping-Lead-time
-This project is using publically available commodity shipment data set from USAID department's PEPFAR Relief program for AIDS. 
+This project is trying to predict whether a shipment got delayed or not, using supply chain dataset of healthcare items.
